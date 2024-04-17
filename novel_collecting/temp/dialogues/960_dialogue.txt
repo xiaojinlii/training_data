@@ -1,0 +1,2 @@
+{"role": "游坦之", "dialogue": "是我的，快还我"}
+{"role": "鸠摩智", "dialogue": ""}

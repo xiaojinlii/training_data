@@ -1,0 +1,14 @@
+scene:Yuan Gen is initially shocked and afraid of Xu Zhu's violent tendencies, but then realizes that Xu Zhu's martial arts skills have been completely abolished.
+scene:Yuan Gen is relieved and suggests that Xu Zhu wear shackles and handcuffs while working in the garden as per the monastery's rules for monks who have committed violent acts.
+虚竹:「规矩如此，小僧自当遵从。」
+scene:Xu Zhu agrees to comply with the rules.
+缘根:「贼和尚，瞧不出你小小年纪，居然如此胆大妄为，什么戒律都去犯上一犯。今日不重重惩罚，如何出得我心中恶气」
+虚竹:「是」
+缘根:「你每天挑一百担粪水浇菜，只消少了一担，我用硬扁担、铁棍子打断你的两腿。」
+scene:缘根给虚竹戴上钢铐钢镣，责打虚竹并威胁要打断他的腿
+scene:虚竹接受责打，认为越重的惩罚越能减轻他的罪孽
+缘根:「贼和尚，懒秃青天白日的，却躲在这里睡觉，快起来劈柴去。」
+scene:虚竹被迫劈柴和浇粪水，受到缘根的虐待和折磨
+缘根:「师兄你辛苦啦」
+scene:第八天，缘根突然改变态度，解开虚竹的铐镣并请求原谅
+虚竹:「也不辛苦」

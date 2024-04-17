@@ -1,0 +1,2 @@
+{"role": "游坦之", "dialogue": "荷荷"}
+{"role": "阿紫", "dialogue": "啊哟"}

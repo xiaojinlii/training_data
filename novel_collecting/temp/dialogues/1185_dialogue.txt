@@ -1,0 +1,4 @@
+{"role": "萧峰", "dialogue": "陛下，萧峰有负厚恩，重劳御驾亲临，死罪，死罪。"}
+{"role": "虚竹", "dialogue": "走罢"}
+{"role": "段誉", "dialogue": "走罢"}
+{"role": "萧峰", "dialogue": "大哥"}

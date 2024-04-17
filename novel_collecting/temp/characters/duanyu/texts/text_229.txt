@@ -1,0 +1,9 @@
+scene:段誉使用“商阳剑”剑法攻击鸠摩智，鸠摩智用“火焰刀”挡架
+段誉:「这可古怪之极了。我随手这么一指，这和尚为甚么要这般凝神挡拒是了，是了，想是我出指的姿式很对，这和尚以为我会使六脉神剑。哈哈，既是如此，我且来吓他一吓。”大声道：“这商阳剑功夫，何足道哉我使几招中冲剑的剑法给你瞧瞧。”说着中指点出。但他手法虽然对了，这一次却无内劲相随，只不过凌空虚点，毫无实效。」
+鸠摩智:「我原说世上岂能有人既会使商阳剑，又会使中冲剑果然这小子虚张声势的唬人，倒给他吓了一跳。」
+scene:Duan Yu surprises Jiumozhi and others with his attack
+scene:Duan Yu tries to scare Jiumozhi by pretending to use a powerful sword technique
+scene:Jiumozhi counters with a powerful attack, but Duan Yu defends himself with his own sword techniques
+scene:Duan Yu's attacks become more complex and unpredictable, overwhelming Jiumozhi
+scene:Jiumozhi realizes that Duan Yu is a skilled fighter and regrets underestimating him
+段誉:「我不该再发劲了，且听他有何话说。」

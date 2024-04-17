@@ -1,0 +1,6 @@
+{"role": "-", "dialogue": "-"}
+{"role": "-", "dialogue": "张先生，你可是从北方来吗"}
+{"role": "-", "dialogue": "正是。"}
+{"role": "-", "dialogue": "小弟作东，请先生去饮上三杯如何"}
+{"role": "-", "dialogue": "素不相识，怎敢叨扰"}
+{"role": "-", "dialogue": "喝上三怀，那便相识了。我姓郭，名叫郭啸天。"}

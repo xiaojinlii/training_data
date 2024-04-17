@@ -1,0 +1,5 @@
+{"role": "萧峰", "dialogue": "好家伙，真有你"}
+{"role": "萧峰", "dialogue": "英雄，英雄"}
+{"role": "完颜阿骨打", "dialogue": "完颜阿骨打"}
+{"role": "萧峰", "dialogue": "萧峰"}
+{"role": "完颜阿骨打", "dialogue": "完颜阿骨打女真"}

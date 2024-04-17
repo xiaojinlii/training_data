@@ -1,0 +1,4 @@
+{"role": "游坦之", "dialogue": "这番死了也"}
+{"role": "游坦之", "dialogue": "水水"}
+{"role": "游坦之", "dialogue": "不知我死了没有"}
+{"role": "游坦之", "dialogue": "他们把我拉到哪里去是拖出去杀头么"}

@@ -1,0 +1,8 @@
+scene:Eight friends from the Hangu Pass appear and cheer for Xuzhu, urging him to defeat Ding Chunqiu
+scene:Jujian is hit by the liquor and falls down, poisoned
+虚竹:「师叔，这毒药好生厉害，快制住老贼，逼他取解药救治。」
+scene:虚竹想救菊剑，但不知道如何救她
+scene:薛慕华建议制住丁春秋逼他取解药
+丁春秋:「他掌力便再阴寒，也决不能绕了弯去袭我背后，何况寒凉处都是在穴道之上，到底小贼秃有甚么古怪邪门可要小心了。」
+scene:虚竹使用内功攻击丁春秋，丁春秋感到寒冷
+虚竹:「啊哟」

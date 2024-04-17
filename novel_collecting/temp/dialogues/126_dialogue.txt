@@ -1,0 +1,7 @@
+{"role": "段誉", "dialogue": "快走"}
+{"role": "木婉清", "dialogue": "到大理去，不知我们走的路对不对"}
+{"role": "朱丹臣", "dialogue": "左右无事，向东行也好，向西行也好，终究会到大理。"}
+{"role": "木婉清", "dialogue": "第四恶人"}
+{"role": "朱丹臣", "dialogue": "快走，不用等我。"}
+{"role": "云中鹤", "dialogue": "是谁，给我站住了"}
+{"role": "朱丹臣", "dialogue": "啊哟"}

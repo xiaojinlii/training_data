@@ -1,0 +1,2 @@
+{"role": "乔峰", "dialogue": ""}
+{"role": "阿朱", "dialogue": ""}

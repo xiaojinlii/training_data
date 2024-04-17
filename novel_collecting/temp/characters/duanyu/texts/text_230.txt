@@ -1,0 +1,6 @@
+scene:Jiumozhi tries to stop the fight and Duan Yu stops using his inner energy
+scene:Jiumozhi takes advantage of Duan Yu's confusion and tries to punch him in the face
+段誉:「段誉以诸般机缘巧合，才学会了六脉神剑这门最高深的武学，寻常的拳脚兵刃功夫却全然不会。鸠摩智这一拳隐伏七八招后着，原也是极高明的拳数，然而比之“火焰刀”以内劲伤人，其间深浅难易，相去自不可以道里计。本来世上任何技艺学问，决无会深不会浅、会难不会易之理，段誉的武功却是例外。他见鸠摩智挥拳打到，便即毛手毛脚的伸臂去格。鸠摩智右掌翻过，已抓住了他胸口“神封穴”。段誉立时全身酸软，动弹不得。」
+scene:段誉学会了六脉神剑，但对其他武功一无所知
+scene:鸠摩智轻易地控制了段誉，发现他的武学有破绽
+段誉:「神封穴属“足少阴肾经”，他没练过。」

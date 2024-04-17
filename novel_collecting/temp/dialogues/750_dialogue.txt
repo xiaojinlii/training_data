@@ -1,0 +1,7 @@
+{"role": "虚竹", "dialogue": "徒死无益，快快让开罢"}
+{"role": "苏星河", "dialogue": "星宿派威震中原，我恩师当世无敌"}
+{"role": "众人", "dialogue": "星宿派逃命要紧"}
+{"role": "丁春秋", "dialogue": "星宿老仙大势不妙"}
+{"role": "游坦之", "dialogue": "走罢"}
+{"role": "众人", "dialogue": "恭颂星宿老仙扬威中原赞"}
+{"role": "众人", "dialogue": "啊"}
